@@ -1,0 +1,26 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\POO_Classes_Metodos_Atributos_Est-ticos\bin\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\POO_Classes_Metodos_Atributos_Est-ticos\bin\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\POO_Classes_Metodos_Atributos_Est-ticos\bin\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\POO_Classes_Metodos_Atributos_Est-ticos\bin\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\POO_Classes_Metodos_Atributos_Est-ticos\bin\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\POO_Classes_Metodos_Atributos_Est-ticos\bin\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\POO_Classes_Metodos_Atributos_Est-ticos\obj\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\POO_Classes_Metodos_Atributos_Est-ticos\obj\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\POO_Classes_Metodos_Atributos_Est-ticos\obj\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\POO_Classes_Metodos_Atributos_Est-ticos\obj\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\POO_Classes_Metodos_Atributos_Est-ticos\obj\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\POO_Classes_Metodos_Atributos_Est-ticos\obj\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\POO_Classes_Metodos_Atributos_Est-ticos\obj\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.genruntimeconfig.cache
+C:\Users\Pichau\Downloads\POO_Classes_Metodos_Atributos_Est-ticos-main\bin\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.exe
+C:\Users\Pichau\Downloads\POO_Classes_Metodos_Atributos_Est-ticos-main\bin\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.deps.json
+C:\Users\Pichau\Downloads\POO_Classes_Metodos_Atributos_Est-ticos-main\bin\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.runtimeconfig.json
+C:\Users\Pichau\Downloads\POO_Classes_Metodos_Atributos_Est-ticos-main\bin\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.runtimeconfig.dev.json
+C:\Users\Pichau\Downloads\POO_Classes_Metodos_Atributos_Est-ticos-main\bin\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.dll
+C:\Users\Pichau\Downloads\POO_Classes_Metodos_Atributos_Est-ticos-main\bin\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.pdb
+C:\Users\Pichau\Downloads\POO_Classes_Metodos_Atributos_Est-ticos-main\obj\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.csprojAssemblyReference.cache
+C:\Users\Pichau\Downloads\POO_Classes_Metodos_Atributos_Est-ticos-main\obj\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\POO_Classes_Metodos_Atributos_Est-ticos-main\obj\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\POO_Classes_Metodos_Atributos_Est-ticos-main\obj\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\POO_Classes_Metodos_Atributos_Est-ticos-main\obj\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.dll
+C:\Users\Pichau\Downloads\POO_Classes_Metodos_Atributos_Est-ticos-main\obj\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.pdb
+C:\Users\Pichau\Downloads\POO_Classes_Metodos_Atributos_Est-ticos-main\obj\Debug\netcoreapp3.1\POO_Classes_Metodos_Atributos_Est-ticos.genruntimeconfig.cache
